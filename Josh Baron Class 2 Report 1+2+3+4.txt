@@ -1,0 +1,29 @@
+Report 1:
+Ive basically just been watching different videos regarding connecting python and mysql together and
+doing small exercises i found on the internet.
+
+Then i started planning how im gonna split the task up into different sections and then join them together
+The plan for tonight is to setup my CLI in python for the main menu then i'll be setting up the
+different tables needed in mysql.
+
+At the moment im happy with the slow approach ive taken towards the task. It will help me better
+down the line since ive made everything i need and want clear to myself.
+
+Report 2:
+So today i decided to lay out my mysql structure. I decided to go with 3 tables for now, that would
+be users, students login/out and staff login/out. I chose to seperate students and lecturer tables
+inorder to make it easier to see who is in what category... Then im thinking my forth table will
+be to see who is logged in on the premises at the moment incase of emergies or for general 
+statistical purposes.
+
+So now im ready to handle my python section of my four splits. I already have a plan for the layout
+of my menu which i'll start later tonight or from tomorrow.
+
+Report 3:
+Got quite a bit done over the weekend. If i had to say, im 80-85% done with my project, i just want
+to make the cli look nicer now and then i want to change the way i assign an ID to a user. Other 
+than that im nearly there!
+
+Report 4:
+Spent my day changing my primary keys from email and username to just user_id and added line skips
+and special characters like _ and = to decorate code. Will be submitting my code soon.
